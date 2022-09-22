@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**MarcoMoya1/MarcoMoya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
@@ -12,5 +11,5 @@
 
 - 📫 Reach Me at: 915marco@gmail.com Or on Twitter at @SBMarco33
 
-- ⚡ Fun fact: ...
--->
+
+
