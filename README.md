@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on creating a Training reference page for my  current company
-- 🌱 I’m currently learning advanced JavaScript and the MERN stack
+- 🌱 I’m currently learning advanced JavaScript and Jquery
 - 👯 I’m looking to collaborate on any project, I would love to improve my skills and learn more 
 - 🤔 I’m looking for help with JavaScript
 
