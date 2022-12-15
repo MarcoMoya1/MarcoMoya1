@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on creating an app Called "Who want to.."
+- 🔭 I’m currently working on creating an app Called "Who wants to.."
 - 🌱 I’m currently learning advanced JavaScript and Jquery
 - 👯 I’m looking to collaborate on any project, I would love to improve my skills and learn more 
 - 🤔 I’m looking for help with JavaScript and Jquery
