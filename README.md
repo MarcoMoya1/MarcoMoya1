@@ -16,8 +16,8 @@
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcomoya1&" alt="marcomoya1" /></p> -->
-
-!Visitor Count(https://profile-counter.glitch.me/{MarcoMoya1}/count.svg)
+- Visitor Count 
+![Visitor Count](https://profile-counter.glitch.me/{MarcoMoya1}/count.svg)
 
 
 
