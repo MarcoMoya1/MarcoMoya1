@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on a few personal apps and games 
-- 🌱 I’m currently learning advanced JavaScript and React
+- 🌱 I’m currently learning advanced JavaScript and React and Npm
 - 👯 I’m looking to collaborate on any project, I would love to improve my skills and learn more 
 - 🤔 I’m looking for help with JavaScript
 
