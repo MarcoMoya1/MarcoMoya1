@@ -4,10 +4,10 @@
 
 
 
-- 🔭 I’m currently working on a few personal apps and games.
-- 🌱 I’m currently learning advanced JavaScript and React
-- 👯 I’m looking to collaborate on any project, I would love to improve my skills and learn more 
-- 🤔 I’m looking for help with JavaScript
+- 🔭 I’m currently working on a few personal projects and self teaching python
+- 🌱 I’m currently studing Python and Machine Learning
+- 👯 I’m looking to collaborate on any project, I would love to improve my skills and learn more about AI, ML, Deep Learning and Python automation 
+- 🤔 I’m looking for help with developing my skills and diving deeper in to the field of AI
 
 - 📫 Reach Me at: 915marco@gmail.com , [Twitter Page](https://twitter.com/marcsol_) or [LinkedIn](https://www.linkedin.com/in/marco-moya-6b806b198/)
 
